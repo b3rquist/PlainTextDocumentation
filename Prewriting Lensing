@@ -27,16 +27,15 @@ very far away
 
 Introduction
 Bending Light.  While the it sounds like something out of a science finction movie, it is a reality.  Unfortantly it might
-not be as easy as one could possibly wish it to be.  As we dive into the subject it is important to remember that their is
-still so much that we don't know about the universe and the laws of physics. But it will ot the best of my ability try to
-explain everything that the scientific community knows about this phenomenom. To start ww will go into the history of the
+not be as easy as one would wish it to be.  As we dive into the subject it is important to remember that their is
+still so much that we don't know about the universe and the laws of physics. But I will ot the best of my ability try to
+explain everything that the scientific community knows about this phenomenom. To start we will go into the history of the
 gravatational lensing and its discovery.  Then we will go into the science behind it as well as what efforts are going on to find
 lens.
 
 While Einstein's theory of relativity is given the most credit for coming up with the idea of gravitation lensing, Johann Georg von Soldner
-predicted that light can be bent arround massive objects. When testing out Enisteins theory by using a solar eclipse to look at
-starlight that is very close to the sun, Aurthur Eddington was able to prove light deflection, and thus making Einstein's
-theory famous.  Einstein also was the one to theorize that you could potentially see two images of the same object as light was
+predicted that light can be bent arround massive objects before him. When testing out Enisteins theory by using a solar eclipse to look at
+starlight that is very close to the sun, Aurthur Eddington was able to prove light deflection was possiable,  Einstein also was the one to theorize that you could potentially see two images of the same object as light was
 bended arround it. Einstein, however never considered the possibility that light could be bent by a whole galaxy and just
 a single star.  Fritz Zwicky was the first to consider this possibility in 1937 but it was unitl 1979 that the first gravitational
 lens was discovered by a team of scientist at the Kitt Peak National Observatory.  This discovery, initially thought to be two 
@@ -46,15 +45,18 @@ Essentially lensing works much like any of situation involving gravity.  Given t
 equations of how gravity effects a object with mass it can be made so it effects energy, which is what light is.  So iy you where 
 to shoot a bullet on earth the gravity would curve the bullet towards the ground until it eventually hit the earth.  However 
 if you were really far above the earth and shot the bullet the gravity would change the trajectory of the bullet but would not hit
-the ground.  This is what essentialy a gravitation lens does but you can get two images of one object becasue light perpetuates
-in all directions.  thus you can have multiple images as the light gets bent back to the seers direction.  However the object
+the ground.  This is what essentialy a gravitational lens does works, however you can get multiple images from one obeject becasue the light
+goes out in all direction thus the image can be bent arround an object and come back on both sides.  However the object
 effecting the light has to be incrediably massive. The equation to find the angle of deflection is (4GM)/(rc^2) where G is 
-the gravitational constant, M is the mass, r is the radius, and c is the speed of light.
+the gravitational constant, M is the mass of the object, r is the radius from the center of gravity, and c is the speed of light.  So you can immagine how massive
+an object would have to be in order to casue any type of lensing. 
 
-In the begining all discoveries of gravitational lens where found by accident, it wasn't until Cosmic Lens All Sky Survey using
-the Very Large Array that there was an actual search for lenses.  The survey yeilded the discovery of 22 lens using radio frequencies.
-A similar search was also done in the southern hemisphere using the Australia Telescope Compact Array.  Scientist in Germany 
-discovered the most distant gravitational quad-image lens to be found using the Hubble Telescope in 2013.  
+Unitl recently, most discoveries of gravitational lens where on accident and where not actively getting hunted down in the cosmos.
+Recently, there has been two surveys one in the nothern hemisphere and one in the southern hemisphere to find gravitational lenses.
+One one in the northern hemisphere was called the Cosmic Lens All Sky Survey or CLASS, this survey found 22 gravitational lenses
+by detecting radion signals with Very Large Array.  The other survey was done in Australia at the the Australian Telescope Compact
+Array where the scientist there looked for gravatational lenses near quasars. While radio waves were used to find the lens in the last two surveys 
+the Hubble Telescope has also found gravational lenses including the furthest know lens from us.  
 
 In Conclusion, Gravitation Lens were first theorized before Einstein but it was proven using his theories. But it wasnt until more
 than 50 years after that one was actually discovered.  Working much like gravity on object with mass light will bend arround massive
